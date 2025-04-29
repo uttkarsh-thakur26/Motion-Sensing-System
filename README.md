@@ -10,6 +10,8 @@
 
 Welcome to the **Motion Sensing System**! This application leverages deep learning to classify human actions based on image datasets. It uses a pre-trained **VGG16 model** to achieve high accuracy in recognizing actions from input images.
 
+🔗 **Live Demo**: [https://motion-sensing-by-uttkarsh.streamlit.app/](https://motion-sensing-by-uttkarsh.streamlit.app/)
+
 ### 🌟 Key Features
 - **Fast and Accurate**: Utilizes a VGG16-based deep learning model.
 - **User-Friendly Interface**: Built with **Streamlit** for interactive input.
@@ -29,13 +31,13 @@ Welcome to the **Motion Sensing System**! This application leverages deep learni
 ---
 
 ## 📂 Folder Structure
+
 project/
 ├── model/
 │   └──motion_sensing_system.h5
 ├── uploads/
 ├── streamlit_app.py
 └── requirements.txt
-
 
 ---
 
