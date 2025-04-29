@@ -1,4 +1,4 @@
-# 🕺 Human Action Recognition System 🎥
+# 🕺 Motion Sensing System 🎥
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="600" height="300"/>
@@ -8,7 +8,7 @@
 
 ## 🚀 About the Project
 
-Welcome to the **Human Action Recognition System**! This application leverages deep learning to classify human actions based on image datasets. It uses a pre-trained **VGG16 model** to achieve high accuracy in recognizing actions from input images.
+Welcome to the **Motion Sensing System**! This application leverages deep learning to classify human actions based on image datasets. It uses a pre-trained **VGG16 model** to achieve high accuracy in recognizing actions from input images.
 
 ### 🌟 Key Features
 - **Fast and Accurate**: Utilizes a VGG16-based deep learning model.
@@ -40,7 +40,7 @@ Welcome to the **Human Action Recognition System**! This application leverages d
 ## 📂 Folder Structure
 project/
 ├── model/
-│   └──human_activity_recognition.h5
+│   └──motion_sensing_system.h5
 ├── uploads/
 ├── streamlit_app.py
 └── requirements.txt
@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/human-action-recognition.git
+   git clone (https://github.com/uttkarsh-thakur26/Motion-Sensing-System.git)
    cd human-action-recognition
    
   ```bash
